@@ -313,3 +313,5 @@ for (let item of arr) {
 	packImg.src = "./img/box.svg";
 	button.innerHTML = "В избранное";
 }
+
+let button = document.querySelector('.openModalBtn')
